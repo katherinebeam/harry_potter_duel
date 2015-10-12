@@ -11,7 +11,11 @@ end
 
 # lists spells available for use
 def spells
-	puts "     Confundo\n     Petrificus Totalus\n     Incendio\n     Crucio\n\n"
+	puts "Confundo
+	Petrificus Totalus
+	Incendio
+	Crucio
+	\n\n"
 end
 
 # ----INTRO-----
